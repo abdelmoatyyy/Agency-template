@@ -6,6 +6,7 @@ body {
   -moz-box-sizing: border-box;
   margin: 0;
   padding: 0;
+  overflow : hidden ;
 }
 :root {
   --main-color: #13005a;
